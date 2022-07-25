@@ -1,7 +1,7 @@
  $(function () {
 
     const idCity = '3522210';
-    const apikey = '10427e70eb75599170aa8315029b30f5';
+    const apikey = '[YOUR_OPENWEATHERMAP_API_KEY]';
     const lang = 'es';
     const units = 'metric'
     
